@@ -1,0 +1,22 @@
+{
+  "name": "metrina-ticket-sounds-data",
+  "version": "1.0.0",
+  "description": "Metrina Ticketing Sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrina-org/ticket-sounds-data.git"
+  },
+  "keywords": [
+    "private"
+  ],
+  "author": "Metrina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metrina-org/ticket-sounds-data/issues"
+  },
+  "homepage": "https://github.com/metrina-org/ticket-sounds-data#readme"
+}
